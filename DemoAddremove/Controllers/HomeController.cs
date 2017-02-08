@@ -26,5 +26,12 @@ namespace DemoAddremove.Controllers
 
             return View();
         }
+        public ActionResult Addremovelist()
+        {
+
+            return View(); 
+                
+                
+         }
     }
 }
